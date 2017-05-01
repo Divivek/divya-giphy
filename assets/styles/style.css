@@ -1,0 +1,17 @@
+body {
+background-image: url("./../images/backdrop.gif");
+}
+h1{
+ background-color: pink;
+ text-align: center;
+}
+#add-design {
+margin-top: 20px;
+margin-left: 10px;	
+}
+.designs {
+	margin-top: 20-px;
+}
+img{
+	height: 150px;
+}
